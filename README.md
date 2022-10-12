@@ -28,7 +28,7 @@ $ buid project
 
 
 
-## Build Nginx Server
+## Build Nginx HTTP Server
 
 Using a set of directives used by the make build automation tool to generate the application for development and/or production:
 
