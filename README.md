@@ -21,7 +21,7 @@ $ git clone https://github.com/iagsoncarlos/nginx-http-server.git
 ```
 2 - Build the project:
 ```
-$ buid project
+$ build project
 ```
 
 
