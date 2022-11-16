@@ -1,7 +1,7 @@
 # Nginx HTTP Server
 Nginx HTTP server boilerplate configs.
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![Generic badge](https://img.shields.io/badge/nginx-v1.21-<COLOR>.svg)](https://hub.docker.com/_/nginx) [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://www.docker.com/) [![Generic badge](https://img.shields.io/badge/docker%20compose-v2.10.2-blue.svg)](https://docs.docker.com/compose/install/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/iagsoncarlos/nginx-http-server/blob/main/LICENSE) [![Generic badge](https://img.shields.io/badge/nginx-v1.21-<COLOR>.svg)](https://hub.docker.com/_/nginx) [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://www.docker.com/) [![Generic badge](https://img.shields.io/badge/docker%20compose-v2.10.2-blue.svg)](https://docs.docker.com/compose/install/)
 
 
 
